@@ -1,0 +1,4 @@
+- 👋 Hi, I’m  Danyelle
+- meu email de contato é: danyelle.lima@escola.pr.gov.br
+- 👀 I’m interesta  em aprender  a programar novas linguagens.
+- 🌱 Eu estou aprendendo a programar recentemente a liguagem de JavaScrip e Scratch.
